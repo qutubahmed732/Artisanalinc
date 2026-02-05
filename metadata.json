@@ -1,0 +1,8 @@
+{
+  "name": "Echelon Labs - Boutique Digital Architecture",
+  "description": "A high-end, minimalist landing page for a selective software development firm that prioritizes craft over commerce.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
